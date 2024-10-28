@@ -19,3 +19,14 @@ file_system: "bellandeos_file_system"
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
+
+calculator: "bellandeos_calculator"
+  executable:
+    bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/calculator/bellandeos/Calculator
+    linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/calculator/linux/Calculator
+  code:
+    bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/calculator/bellandeos/Calculator
+    linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/calculator/linux/Calculator
+  versions: 0.0.1
+  author: Ronaldson Bellande
+  maintainer: Ronaldson Bellande
