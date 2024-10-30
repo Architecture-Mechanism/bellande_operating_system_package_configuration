@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Update Software
+about: 'Update A Software Version'
 title: ''
 labels: ''
 assignees: ''
