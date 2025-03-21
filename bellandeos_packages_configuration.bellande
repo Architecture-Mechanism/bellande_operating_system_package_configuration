@@ -14,9 +14,12 @@
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 file_system: "bellandeos_file_system"
-  github-executable:
+  github:
     bellandeos: default-installed
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_driver_packages/blob/main/file_system/linux/file_system
+  gitlab:
+    bellandeos: default-installed    
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_driver_packages/blob/main/file_system/linux/file_system
   bellande-technologies-git:
     bellandeos: default-installed    
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_driver_packages/blob/main/file_system/linux/file_system
@@ -24,10 +27,41 @@ file_system: "bellandeos_file_system"
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
 
+scripting_language: "bellos"
+  github:
+    bellandeos: default-installed
+    linux: https://github.com/Architecture-Mechanism/bellos/blob/main/executable/bellos
+  gitlab:
+    bellandeos: default-installed    
+    linux: https://git.bellande-technologies.com/bellos/blob/main/executable/bellos
+  bellande-technologies-git:
+    bellandeos: default-installed    
+    linux: https://git.bellande-technologies.com/BAMRI/bellos/blob/main/executable/bellos
+  versions: 0.0.1
+  author: Ronaldson Bellande
+  maintainer: Ronaldson Bellande
+
+programming_language: "bellronos"
+  github:
+    bellandeos: default-installed
+    linux: https://github.com/Architecture-Mechanism/bellronos/blob/main/executable/bellronos
+  gitlab:
+    bellandeos: default-installed    
+    linux: https://git.bellande-technologies.com/Bellande-Architecture-Mechanism-Research-Innovation/bellronos/blob/main/executable/bellronos
+  bellande-technologies-git:
+    bellandeos: default-installed    
+    linux: https://git.bellande-technologies.com/BAMRI/bellronos/blob/main/executable/bellronos
+  versions: 0.0.1
+  author: Ronaldson Bellande
+  maintainer: Ronaldson Bellande
+
 calculator: "bellandeos_calculator"
-  github-executable:
+  github:
     bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/calculator/bellandeos/Calculator
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/calculator/linux/Calculator
+  gitlab:
+    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/calculator/bellandeos/Calculator
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/calculator/linux/Calculator
   bellande-technologies-git:
     bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/calculator/bellandeos/Calculator
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/calculator/linux/Calculator
@@ -36,9 +70,12 @@ calculator: "bellandeos_calculator"
   maintainer: Ronaldson Bellande
 
 calendar: "bellandeos_calendar"
-  github-executable:
+  github:
     bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/calendar/bellandeos/Calendar
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/calendar/linux/Calendar
+  gitlab:
+    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/calendar/bellandeos/Calendar
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/calendar/linux/Calendar
   bellande-technologies-git:
     bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/calendar/bellandeos/Calendar
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/calendar/linux/Calendar
@@ -47,9 +84,12 @@ calendar: "bellandeos_calendar"
   maintainer: Ronaldson Bellande
 
 email_client: "bellandeos_email_client"
-  github-executable:
+  github:
     bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/email_client/bellandeos/EmailClient
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/email_client/linux/EmailClient
+  gitlab:
+    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/email_client/bellandeos/EmailClient
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/email_client/linux/EmailClient
   bellande-technologies-git:
     bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/email_client/bellandeos/EmailClient
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/email_client/linux/EmailClient
@@ -58,9 +98,12 @@ email_client: "bellandeos_email_client"
   maintainer: Ronaldson Bellande
 
 file_manager: "bellandeos_file_manager"
-  github-executable:
+  github:
     bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/file_manager/bellandeos/FileManager
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/file_manager/linux/FileManager
+  gitlab:
+    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/file_manager/bellandeos/FileManager
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/file_manager/linux/FileManager
   bellande-technologies-git:
     bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/file_manager/bellandeos/FileManager
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/file_manager/linux/FileManager
@@ -69,9 +112,12 @@ file_manager: "bellandeos_file_manager"
   maintainer: Ronaldson Bellande
 
 notes: "bellandeos_notes"
-  github-executable:
+  github:
     bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/notes/bellandeos/Notes
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/notes/linux/Notes
+  gitlab:
+    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/notes/bellandeos/Notes
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/notes/linux/Notes
   bellande-technologies-git:
     bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/notes/bellandeos/Notes
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/notes/linux/Notes
@@ -80,9 +126,12 @@ notes: "bellandeos_notes"
   maintainer: Ronaldson Bellande
 
 paint: "bellandeos_paint"
-  github-executable:
+  github:
     bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/paint/bellandeos/Paint
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/paint/linux/Paint
+  gitlab:
+    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/paint/bellandeos/Paint
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/paint/linux/Paint
   bellande-technologies-git:
     bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/paint/bellandeos/Paint
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/paint/linux/Paint
@@ -91,9 +140,12 @@ paint: "bellandeos_paint"
   maintainer: Ronaldson Bellande
 
 task_manager: "bellandeos_task_manager"
-  github-executable:
+  github:
     bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/task_manager/bellandeos/TaskManager
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/task_manager/linux/TaskManager
+  gitlab:
+    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/task_manager/bellandeos/TaskManager
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/task_manager/linux/TaskManager
   bellande-technologies-git:
     bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/task_manager/bellandeos/TaskManager
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/task_manager/linux/TaskManager
@@ -102,9 +154,12 @@ task_manager: "bellandeos_task_manager"
   maintainer: Ronaldson Bellande
 
 terminal: "bellandeos_terminal"
-  github-executable:
+  github:
     bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/terminal/bellandeos/Terminal
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/terminal/linux/Terminal
+  gitlab:
+    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/terminal/bellandeos/Terminal
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/terminal/linux/Terminal
   bellande-technologies-git:
     bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/terminal/bellandeos/Terminal
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/terminal/linux/Terminal
@@ -113,9 +168,12 @@ terminal: "bellandeos_terminal"
   maintainer: Ronaldson Bellande
 
 text_editor: "bellandeos_text_editor"
-  github-executable:
+  github:
     bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/text_editor/bellandeos/TextEditor
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/text_editor/linux/TextEditor
+  gitlab:
+    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/text_editor/bellandeos/TextEditor
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/text_editor/linux/TextEditor
   bellande-technologies-git:
     bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/text_editor/bellandeos/TextEditor
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/text_editor/linux/TextEditor
