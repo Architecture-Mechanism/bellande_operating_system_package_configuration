@@ -23,6 +23,9 @@ file_system: "bellandeos_file_system"
   bellande-technologies-git:
     bellandeos: default-installed    
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_driver_packages/blob/main/file_system/linux/file_system
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_operating_system_driver_packages/blob/main/file_system/linux/file_system
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
@@ -33,10 +36,13 @@ scripting_language: "bellos"
     linux: https://github.com/Architecture-Mechanism/bellos/blob/main/executable/bellos
   gitlab:
     bellandeos: default-installed    
-    linux: https://git.bellande-technologies.com/bellos/blob/main/executable/bellos
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellos/blob/main/executable/bellos
   bellande-technologies-git:
     bellandeos: default-installed    
     linux: https://git.bellande-technologies.com/BAMRI/bellos/blob/main/executable/bellos
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellos/blob/main/executable/bellos
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
@@ -51,6 +57,9 @@ database: "bellande_sql"
   bellande-technologies-git:
     bellandeos: default-installed    
     linux: https://git.bellande-technologies.com/BAMRI/bellande_sql/blob/main/executable/bellande_sql
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_sql/blob/main/executable/bellande_sql
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
@@ -65,6 +74,9 @@ commmunication_system: "bellande_mesh_sync"
   bellande-technologies-git:
     bellandeos: default-installed    
     linux: https://git.bellande-technologies.com/BAMRI/bellande_mesh_sync/blob/main/executable/bellande_mesh_sync
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellos/blob/main/executable/bellande_mesh_sync
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
@@ -79,6 +91,9 @@ artificial_intelligence_framework: "bellande_artificial_intelligence_framework"
   bellande-technologies-git:
     bellandeos: default-installed    
     linux: https://git.bellande-technologies.com/BAICVRI/bellande_artificial_intelligence_framework/blob/main/executable/bellande_artificial_intelligence_framework
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_artificial_intelligence_framework/blob/main/executable/bellande_artificial_intelligence_framework
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
@@ -93,6 +108,26 @@ access_rights: "bell"
   bellande-technologies-git:
     bellandeos: default-installed    
     linux: https://git.bellande-technologies.com/BAMRI/bell/blob/main/executable/bell
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bell/blob/main/executable/bell
+  versions: 0.0.1
+  author: Ronaldson Bellande
+  maintainer: Ronaldson Bellande
+
+boot: "bellande_boot"
+  github:
+    bellandeos: default-installed
+    linux: https://github.com/Architecture-Mechanism/bellande_boot/blob/main/executable/bellande_boot
+  gitlab:
+    bellandeos: default-installed    
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_boot/blob/main/executable/bellande_boot
+  bellande-technologies-git:
+    bellandeos: default-installed    
+    linux: https://git.bellande-technologies.com/BAMRI/bellande_boot/blob/main/executable/bellande_boot
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_boot/blob/main/executable/bellande_boot
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
@@ -107,132 +142,162 @@ programming_language: "bellronos"
   bellande-technologies-git:
     bellandeos: default-installed    
     linux: https://git.bellande-technologies.com/BAMRI/bellronos/blob/main/executable/bellronos
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellronos/blob/main/executable/bellronos
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
 
 calculator: "bellandeos_calculator"
   github:
-    bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/calculator/bellandeos/Calculator
+    bellandeos: default-installed
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/calculator/linux/Calculator
   gitlab:
-    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/calculator/bellandeos/Calculator
+    bellandeos: default-installed
     linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/calculator/linux/Calculator
   bellande-technologies-git:
-    bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/calculator/bellandeos/Calculator
+    bellandeos: default-installed
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/calculator/linux/Calculator
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism//bellande_operating_system_application_packages/blob/main/calculator/linux/Calculator
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
 
 calendar: "bellandeos_calendar"
   github:
-    bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/calendar/bellandeos/Calendar
+    bellandeos: default-installed
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/calendar/linux/Calendar
   gitlab:
-    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/calendar/bellandeos/Calendar
+    bellandeos: default-installed
     linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/calendar/linux/Calendar
   bellande-technologies-git:
-    bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/calendar/bellandeos/Calendar
+    bellandeos: default-installed
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/calendar/linux/Calendar
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_operating_system_application_packages/blob/main/calendar/linux/Calendar
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
 
 email_client: "bellandeos_email_client"
   github:
-    bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/email_client/bellandeos/EmailClient
+    bellandeos: default-installed    
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/email_client/linux/EmailClient
   gitlab:
-    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/email_client/bellandeos/EmailClient
+    bellandeos: default-installed    
     linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/email_client/linux/EmailClient
   bellande-technologies-git:
-    bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/email_client/bellandeos/EmailClient
+    bellandeos: default-installed    
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/email_client/linux/EmailClient
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_operating_system_application_packages/blob/main/email_client/linux/EmailClient
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
 
 file_manager: "bellandeos_file_manager"
   github:
-    bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/file_manager/bellandeos/FileManager
+    bellandeos: default-installed    
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/file_manager/linux/FileManager
   gitlab:
-    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/file_manager/bellandeos/FileManager
+    bellandeos: default-installed    
     linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/file_manager/linux/FileManager
   bellande-technologies-git:
-    bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/file_manager/bellandeos/FileManager
+    bellandeos: default-installed    
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/file_manager/linux/FileManager
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_operating_system_application_packages/blob/main/file_manager/linux/FileManager
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
 
 notes: "bellandeos_notes"
   github:
-    bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/notes/bellandeos/Notes
+    bellandeos: default-installed    
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/notes/linux/Notes
   gitlab:
-    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/notes/bellandeos/Notes
+    bellandeos: default-installed    
     linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/notes/linux/Notes
   bellande-technologies-git:
-    bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/notes/bellandeos/Notes
+    bellandeos: default-installed    
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/notes/linux/Notes
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_operating_system_application_packages/blob/main/notes/linux/Notes
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
 
 paint: "bellandeos_paint"
   github:
-    bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/paint/bellandeos/Paint
+    bellandeos: default-installed    
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/paint/linux/Paint
   gitlab:
-    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/paint/bellandeos/Paint
+    bellandeos: default-installed    
     linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/paint/linux/Paint
   bellande-technologies-git:
-    bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/paint/bellandeos/Paint
+    bellandeos: default-installed    
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/paint/linux/Paint
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_operating_system_application_packages/blob/main/paint/linux/Paint
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
 
 task_manager: "bellandeos_task_manager"
   github:
-    bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/task_manager/bellandeos/TaskManager
+    bellandeos: default-installed    
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/task_manager/linux/TaskManager
   gitlab:
-    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/task_manager/bellandeos/TaskManager
+    bellandeos: default-installed    
     linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/task_manager/linux/TaskManager
   bellande-technologies-git:
-    bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/task_manager/bellandeos/TaskManager
+    bellandeos: default-installed    
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/task_manager/linux/TaskManager
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_operating_system_application_packages/blob/main/task_manager/linux/TaskManager
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
 
 terminal: "bellandeos_terminal"
   github:
-    bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/terminal/bellandeos/Terminal
+    bellandeos: default-installed    
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/terminal/linux/Terminal
   gitlab:
-    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/terminal/bellandeos/Terminal
+    bellandeos: default-installed    
     linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/terminal/linux/Terminal
   bellande-technologies-git:
-    bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/terminal/bellandeos/Terminal
+    bellandeos: default-installed    
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/terminal/linux/Terminal
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_operating_system_application_packages/blob/main/terminal/linux/Terminal
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
 
 text_editor: "bellandeos_text_editor"
   github:
-    bellandeos: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/text_editor/bellandeos/TextEditor
+    bellandeos: default-installed    
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/text_editor/linux/TextEditor
   gitlab:
-    bellandeos: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/text_editor/bellandeos/TextEditor
+    bellandeos: default-installed    
     linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/text_editor/linux/TextEditor
   bellande-technologies-git:
-    bellandeos: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/text_editor/bellandeos/TextEditor
+    bellandeos: default-installed    
     linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/text_editor/linux/TextEditor
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_operating_system_application_packages/blob/main/text_editor/linux/TextEditor
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
