@@ -41,6 +41,62 @@ scripting_language: "bellos"
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
 
+database: "bellande_sql"
+  github:
+    bellandeos: default-installed
+    linux: https://github.com/Architecture-Mechanism/bellande_sql/blob/main/executable/bellande_sql
+  gitlab:
+    bellandeos: default-installed    
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_sql/blob/main/executable/bellande_sql
+  bellande-technologies-git:
+    bellandeos: default-installed    
+    linux: https://git.bellande-technologies.com/BAMRI/bellande_sql/blob/main/executable/bellande_sql
+  versions: 0.0.1
+  author: Ronaldson Bellande
+  maintainer: Ronaldson Bellande
+
+commmunication_system: "bellande_mesh_sync"
+  github:
+    bellandeos: default-installed
+    linux: https://github.com/Architecture-Mechanism/bellande_mesh_sync/blob/main/executable/bellande_mesh_sync
+  gitlab:
+    bellandeos: default-installed    
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_mesh_sync/blob/main/executable/bellande_mesh_sync
+  bellande-technologies-git:
+    bellandeos: default-installed    
+    linux: https://git.bellande-technologies.com/BAMRI/bellande_mesh_sync/blob/main/executable/bellande_mesh_sync
+  versions: 0.0.1
+  author: Ronaldson Bellande
+  maintainer: Ronaldson Bellande
+
+artificial_intelligence_framework: "bellande_artificial_intelligence_framework"
+  github:
+    bellandeos: default-installed
+    linux: https://github.com/Artificial-Intelligence-Computer-Vision/bellande_artificial_intelligence_framework/blob/main/executable/bellande_artificial_intelligence_framework
+  gitlab:
+    bellandeos: default-installed    
+    linux: https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Innovation/bellande_artificial_intelligence_framework/blob/main/executable/bellande_artificial_intelligence_framework
+  bellande-technologies-git:
+    bellandeos: default-installed    
+    linux: https://git.bellande-technologies.com/BAICVRI/bellande_artificial_intelligence_framework/blob/main/executable/bellande_artificial_intelligence_framework
+  versions: 0.0.1
+  author: Ronaldson Bellande
+  maintainer: Ronaldson Bellande
+
+access_rights: "bell"
+  github:
+    bellandeos: default-installed
+    linux: https://github.com/Architecture-Mechanism/bell/blob/main/executable/bell
+  gitlab:
+    bellandeos: default-installed    
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bell/blob/main/executable/bell
+  bellande-technologies-git:
+    bellandeos: default-installed    
+    linux: https://git.bellande-technologies.com/BAMRI/bell/blob/main/executable/bell
+  versions: 0.0.1
+  author: Ronaldson Bellande
+  maintainer: Ronaldson Bellande
+
 programming_language: "bellronos"
   github:
     bellandeos: default-installed
