@@ -1,5 +1,5 @@
 # Bellande Operating System Package Configuration
-
+ 
 ## Add New Software
 - 🚀 [Add New Software](https://github.com/Architecture-Mechanism/bellronos_package_manager/issues/new?assignees=&labels=&projects=&template=add-new-software.md&title=)
 
