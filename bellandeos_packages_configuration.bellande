@@ -81,6 +81,40 @@ commmunication_system: "bellande_mesh_sync"
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
 
+secure_chat: "bellande_secure_chat"
+  github:
+    bellandeos: default-installed    
+    linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/secure_chat/linux/SecureChat
+  gitlab:
+    bellandeos: default-installed    
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/secure_chat/linux/SecureChat
+  bellande-technologies-git:
+    bellandeos: default-installed    
+    linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/secure_chat/linux/SecureChat
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_operating_system_application_packages/blob/main/secure_chat/linux/SecureChat
+  versions: 0.0.1
+  author: Ronaldson Bellande
+  maintainer: Ronaldson Bellande
+
+web_browser: "bellandeos_web_browser"
+  github:
+    bellandeos: default-installed    
+    linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/web_browser/linux/WebBrowser
+  gitlab:
+    bellandeos: default-installed    
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/web_browser/linux/WebBrowser
+  bellande-technologies-git:
+    bellandeos: default-installed    
+    linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/web_browser/linux/WebBrowser
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_operating_system_application_packages/blob/main/web_browser/linux/WebBrowser
+  versions: 0.0.1
+  author: Ronaldson Bellande
+  maintainer: Ronaldson Bellande
+
 artificial_intelligence_framework: "bellande_artificial_intelligence_framework"
   github:
     bellandeos: default-installed
@@ -217,6 +251,23 @@ file_manager: "bellandeos_file_manager"
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
 
+document_processor: "bellandeos_document_processor"
+  github:
+    bellandeos: default-installed    
+    linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/document_processor/linux/DocumentProcessor
+  gitlab:
+    bellandeos: default-installed    
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/document_processor/linux/DocumentProcessor
+  bellande-technologies-git:
+    bellandeos: default-installed    
+    linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/document_processor/linux/DocumentProcessor
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_operating_system_application_packages/blob/main/document_processor/linux/DocumentProcessor
+  versions: 0.0.1
+  author: Ronaldson Bellande
+  maintainer: Ronaldson Bellande
+
 notes: "bellandeos_notes"
   github:
     bellandeos: default-installed    
@@ -298,6 +349,40 @@ text_editor: "bellandeos_text_editor"
   bitbucket:
     bellandeos: default-installed    
     linux: https://bitbucket.org/architecture-mechanism/bellande_operating_system_application_packages/blob/main/text_editor/linux/TextEditor
+  versions: 0.0.1
+  author: Ronaldson Bellande
+  maintainer: Ronaldson Bellande
+
+local_wikipedia: "bellandeos_local_wikipedia_reader"
+  github:
+    bellandeos: default-installed    
+    linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/local_wikipedia/linux/WikipediaReader
+  gitlab:
+    bellandeos: default-installed    
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/local_wikipedia/linux/WikipediaReader
+  bellande-technologies-git:
+    bellandeos: default-installed    
+    linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/local_wikipedia/linux/WikipediaReader
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_operating_system_application_packages/blob/main/local_wikipedia/linux/WikipediaReader
+  versions: 0.0.1
+  author: Ronaldson Bellande
+  maintainer: Ronaldson Bellande
+
+application_store: "bellandeos_application_store"
+  github:
+    bellandeos: default-installed    
+    linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/application_store/linux/ApplicationStore
+  gitlab:
+    bellandeos: default-installed    
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/application_store/linux/ApplicationStore
+  bellande-technologies-git:
+    bellandeos: default-installed    
+    linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/application_store/linux/ApplicationStore
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_operating_system_application_packages/blob/main/application_store/linux/ApplicationStore
   versions: 0.0.1
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
