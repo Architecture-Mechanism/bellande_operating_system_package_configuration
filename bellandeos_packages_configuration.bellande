@@ -81,7 +81,24 @@ commmunication_system: "bellande_mesh_sync"
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
 
-secure_chat: "bellande_secure_chat"
+ai_system: "bellandeos_ai_system"
+  github:
+    bellandeos: default-installed
+    linux: https://github.com/Architecture-Mechanism/ai_system/blob/main/executable/bellandeos_ai_system
+  gitlab:
+    bellandeos: default-installed    
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/ai_system/blob/main/executable/bellandeos_ai_system
+  bellande-technologies-git:
+    bellandeos: default-installed    
+    linux: https://git.bellande-technologies.com/BAMRI/ai_system/blob/main/executable/bellandeos_ai_system
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/ai_system/blob/main/executable/bellandeos_ai_system
+  versions: 0.0.1
+  author: Ronaldson Bellande
+  maintainer: Ronaldson Bellande
+
+secure_chat: "bellandeos_secure_chat"
   github:
     bellandeos: default-installed    
     linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/secure_chat/linux/SecureChat
