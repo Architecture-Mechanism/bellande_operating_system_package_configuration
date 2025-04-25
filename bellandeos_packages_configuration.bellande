@@ -132,6 +132,23 @@ web_browser: "bellandeos_web_browser"
   author: Ronaldson Bellande
   maintainer: Ronaldson Bellande
 
+vpn: "bellandeos_vpn"
+  github:
+    bellandeos: default-installed    
+    linux: https://github.com/Architecture-Mechanism/bellande_operating_system_application_packages/blob/main/vpn/linux/Vpn
+  gitlab:
+    bellandeos: default-installed    
+    linux: https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation/bellande_operating_system_application_packages/blob/main/vpn/linux/Vpn
+  bellande-technologies-git:
+    bellandeos: default-installed    
+    linux: https://git.bellande-technologies.com/BAMRI/bellande_operating_system_application_packages/blob/main/vpn/linux/Vpn
+  bitbucket:
+    bellandeos: default-installed    
+    linux: https://bitbucket.org/architecture-mechanism/bellande_operating_system_application_packages/blob/main/vpn/linux/Vpn
+  versions: 0.0.1
+  author: Ronaldson Bellande
+  maintainer: Ronaldson Bellande
+
 artificial_intelligence_framework: "bellande_artificial_intelligence_framework"
   github:
     bellandeos: default-installed
